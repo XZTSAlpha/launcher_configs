@@ -6,5 +6,6 @@
     "download_mini_loader_url": "https://disk.yandex.ru/d/DBjGeqaUy-gyTQ",
     "archive_name": "UE4_TLF",
     "launcher_name": "TLF_Launcher.exe",
+    "mini_loader_name": "TLF_MiniLoader.exe",
     "launcher_version": "1.0.0.1"
 }
