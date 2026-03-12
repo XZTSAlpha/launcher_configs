@@ -1,7 +1,7 @@
 [
     {
         "path": "Manifest_NonUFSFiles_Win64.txt",
-        "hash": "5e5f6e2cc316f44fff322ca49da8e622f4cc9f9087717f22387b0f40fb359be9"
+        "hash": "4c2479f55c5ef11fd054e1981890b7017d0f9fadb1dc8e660595ac783a0cd530"
     },
     {
         "path": "TestProject.exe",
@@ -109,7 +109,7 @@
     },
     {
         "path": "TestProject\\Content\\Paks\\TestProject-WindowsNoEditor.pak",
-        "hash": "79abf7f69728fc7b41af32adb3356250fa93052ae52082cbe4afabb486f5123b"
+        "hash": "6e01746d8fbac9727c9abbeb4e0b072042fdcba52093ea28657f956a2f25e083"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Compat.ini",
@@ -129,7 +129,7 @@
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\GameUserSettings.ini",
-        "hash": "11f963878de901ca9866a00e41ddff337847bfff723a6279a2c6296f306ea28c"
+        "hash": "f8e9ca420d4f4f984a1b68424f765dc198b9cee08cb93c55cf2f0613a0d35e96"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Hardware.ini",
