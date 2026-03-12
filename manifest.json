@@ -27,7 +27,6 @@
     "Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe",
     "Engine\\Saved\\Config\\WindowsNoEditor\\Manifest.ini",
     "TestProject\\Content\\Paks\\TestProject-WindowsNoEditor.pak",
-    "TestProject\\Saved\\Config\\CrashReportClient\\UE4CC-Windows-2545E8F244B2326AF82ADBAD88D9A684\\CrashReportClient.ini",
     "TestProject\\Saved\\Config\\WindowsNoEditor\\Compat.ini",
     "TestProject\\Saved\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
     "TestProject\\Saved\\Config\\WindowsNoEditor\\Engine.ini",
@@ -46,6 +45,5 @@
     "TestProject\\Saved\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
     "TestProject\\Saved\\Config\\WindowsNoEditor\\Scalability.ini",
     "TestProject\\Saved\\Config\\WindowsNoEditor\\Synthesis.ini",
-    "TestProject\\Saved\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
-    "TestProject\\Saved\\Logs\\TestProject.log"
+    "TestProject\\Saved\\Config\\WindowsNoEditor\\VariantManagerContent.ini"
 ]
