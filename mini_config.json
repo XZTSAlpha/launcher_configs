@@ -1,7 +1,7 @@
 {
-    "launcher_url": "https://disk.yandex.ru/d/AdjR8Gh8TB7BVg",
+    "launcher_url": "https://disk.yandex.ru/d/jTXSv-xcZUHffA",
     "launcher_name": "TLF_Launcher.exe",
-    "version": "1.0.0",
-    "launcher_version": "1.0.0.6",
+    "version": "1.0.1",
+    "launcher_version": "1.0.0.8",
     "yandex_api_url": "https://cloud-api.yandex.net/v1/disk/public/resources/download"
 }
