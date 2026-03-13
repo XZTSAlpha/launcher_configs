@@ -1,190 +1,237 @@
 [
     {
         "path": "Manifest_NonUFSFiles_Win64.txt",
+        "filename": "Manifest_NonUFSFiles_Win64.txt",
         "hash": "4c2479f55c5ef11fd054e1981890b7017d0f9fadb1dc8e660595ac783a0cd530"
     },
     {
         "path": "TestProject.exe",
+        "filename": "TestProject.exe",
         "hash": "885504b8171b7905b39ce9a3c91e3da3f87fe7fb0520f164e5e864da59858889"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+        "filename": "dbghelp.dll",
         "hash": "9a02133854ff9f06c3b23a70f8c2a4814b2ed4eef613244b485e3737259ddf9e"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\NVIDIA\\GeForceNOW\\Win64\\GfnRuntimeSdk.dll",
+        "filename": "GfnRuntimeSdk.dll",
         "hash": "e741479b13faab35b34a60bd9e8b09791ea57d260a9336b44916e73ba2246d30"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+        "filename": "GFSDK_Aftermath_Lib.x64.dll",
         "hash": "516e14af41a91fe960363728965f354aecc06bcdfaef6bcb45dd3537ede09195"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\Oculus\\OVRPlugin\\OVRPlugin\\Win64\\OVRPlugin.dll",
+        "filename": "OVRPlugin.dll",
         "hash": "d42d9a1b40ae9e4a86a1dc00536cc7139daea5addbddd32ca386c5b24b000cb6"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+        "filename": "libogg_64.dll",
         "hash": "284a6e70a6dce01f8a02d93e1bb78baf0efb6140459c587d8986d59fb6bd675b"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\OpenVR\\OpenVRv1_5_17\\Win64\\openvr_api.dll",
+        "filename": "openvr_api.dll",
         "hash": "6c5e18a3c12ddb9618c1edb36cd4834115735c1f3096bd4cb2022c3593af28b8"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\OpenXR\\win64\\openxr_loader.dll",
+        "filename": "openxr_loader.dll",
         "hash": "2ae94572256dfd6d7e992a4474797d8cfe14cf3c030b2040a5b91a7d7bdfd8d8"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFrameworkPROFILE_x64.dll",
+        "filename": "ApexFrameworkPROFILE_x64.dll",
         "hash": "243e4b82d84f6abfc400aaa8c2cc4fc93f36e670c016bc673f18569eb04d47ec"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_ClothingPROFILE_x64.dll",
+        "filename": "APEX_ClothingPROFILE_x64.dll",
         "hash": "6d0bf48f8e20b2876a0924fe23128fed4bfbe7c6263d0b98ede45bedd7486b41"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_LegacyPROFILE_x64.dll",
+        "filename": "APEX_LegacyPROFILE_x64.dll",
         "hash": "9841fd409a788d0a8cb38c8e5ce06a5b7192d43a465ccbe0a6714fccdde67b79"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvClothPROFILE_x64.dll",
+        "filename": "NvClothPROFILE_x64.dll",
         "hash": "e62523756094e9a7f83e2b752bd4452401978bb85e180e2efd9a7d8e1c93c851"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3CommonPROFILE_x64.dll",
+        "filename": "PhysX3CommonPROFILE_x64.dll",
         "hash": "3d0de2d0d5952857acc0234cba8e515cb79ce23569967f0b604ebc2ea70cbd15"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3CookingPROFILE_x64.dll",
+        "filename": "PhysX3CookingPROFILE_x64.dll",
         "hash": "47e6124c9afa2f16ace856f415ee958fcb53109317e7b0191722bdc9c6626507"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3PROFILE_x64.dll",
+        "filename": "PhysX3PROFILE_x64.dll",
         "hash": "b69d19c37c2a08b0aa61cf16595dec31935dafa1023cf27a4457cad2b5bc0a1e"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundationPROFILE_x64.dll",
+        "filename": "PxFoundationPROFILE_x64.dll",
         "hash": "4c2d25266e8b0b1b6efd2ada08fd9f352140c54a9c3670086905758adc3ec4ce"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDKPROFILE_x64.dll",
+        "filename": "PxPvdSDKPROFILE_x64.dll",
         "hash": "a64d533c7486a346470e119111ef98bbe2a38b0d42d22f9c80ee7aec85cb53e3"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+        "filename": "libvorbisfile_64.dll",
         "hash": "a9d6f5538f44011c1f65d7ace64216a237636717cb0c8c59f4f89cc08dd3d24f"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+        "filename": "libvorbis_64.dll",
         "hash": "0f66dcb5837e9b59c499277fd272b862043356aa9145802cf0a63e00a1bcca59"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\Windows\\WinPixEventRuntime\\x64\\WinPixEventRuntime.dll",
+        "filename": "WinPixEventRuntime.dll",
         "hash": "0afaa35527ac034861ffa5564e5f6bd9e4d54e79132b3283cdd98e41f5584d19"
     },
     {
         "path": "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll",
+        "filename": "xaudio2_9redist.dll",
         "hash": "0e01f400baa09694cacfd2cfbff0d721c17b56785d2d6e29b6fdd117f70ccc1e"
     },
     {
         "path": "Engine\\Binaries\\Win64\\OpenImageDenoise.dll",
+        "filename": "OpenImageDenoise.dll",
         "hash": "aaa0d3ea7ee0ab024049b996d9024bc8c38cbbd98604ad5a70115bb040e0e414"
     },
     {
         "path": "Engine\\Binaries\\Win64\\tbb12.dll",
+        "filename": "tbb12.dll",
         "hash": "5e7aeec5821b369319dc8120aa38816e83089cba80a61a29c9bf58cde6e638bc"
     },
     {
         "path": "Engine\\Binaries\\Win64\\UE4Game.exe",
+        "filename": "UE4Game.exe",
         "hash": "e504584dbc25361e0c8a1e482c87dd1e1337c446b387033feb75448a273ebfd1"
     },
     {
         "path": "Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe",
+        "filename": "UE4PrereqSetup_x64.exe",
         "hash": "145f4e4d11e76a2612db5ffbfae8f9ab8e4385ff7660802ffd2f473c9dcb2a0d"
     },
     {
         "path": "Engine\\Saved\\Config\\WindowsNoEditor\\Manifest.ini",
+        "filename": "Manifest.ini",
         "hash": "531bfb7088f544a87ff1268a69a3648dc0648ba49aaca9c3c67d4c4dcf87f088"
     },
     {
         "path": "TestProject\\Content\\Paks\\TestProject-WindowsNoEditor.pak",
+        "filename": "TestProject-WindowsNoEditor.pak",
         "hash": "6e01746d8fbac9727c9abbeb4e0b072042fdcba52093ea28657f956a2f25e083"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Compat.ini",
+        "filename": "Compat.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\DeviceProfiles.ini",
+        "filename": "DeviceProfiles.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Engine.ini",
+        "filename": "Engine.ini",
         "hash": "ecf1999c25ab8fec79bbcaf8cea8c93f28384c42c2a77d5aee5b05e7436fba7f"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Game.ini",
+        "filename": "Game.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\GameUserSettings.ini",
+        "filename": "GameUserSettings.ini",
         "hash": "f8e9ca420d4f4f984a1b68424f765dc198b9cee08cb93c55cf2f0613a0d35e96"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Hardware.ini",
+        "filename": "Hardware.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Input.ini",
+        "filename": "Input.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\LiveLink.ini",
+        "filename": "LiveLink.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\MagicLeap.ini",
+        "filename": "MagicLeap.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\MagicLeapLightEstimation.ini",
+        "filename": "MagicLeapLightEstimation.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\MotoSynth.ini",
+        "filename": "MotoSynth.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Niagara.ini",
+        "filename": "Niagara.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\OculusVR.ini",
+        "filename": "OculusVR.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Paper2D.ini",
+        "filename": "Paper2D.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\PhysXVehicles.ini",
+        "filename": "PhysXVehicles.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\RuntimeOptions.ini",
+        "filename": "RuntimeOptions.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Scalability.ini",
+        "filename": "Scalability.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\Synthesis.ini",
+        "filename": "Synthesis.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     },
     {
         "path": "TestProject\\Saved\\Config\\WindowsNoEditor\\VariantManagerContent.ini",
+        "filename": "VariantManagerContent.ini",
         "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
     }
 ]
