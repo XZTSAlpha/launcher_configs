@@ -1,9 +1,10 @@
 {
-    "installed": "False",
+    "installed": False,
     "path": "",
     "exe_name": "TestProject.exe",
     "download_url": "https://disk.yandex.ru/d/4NJNMjY8Kw3wFA",
     "folder_url": "https://disk.yandex.ru/d/pVFydnQsmFtBdQ",
     "archive_name": "UE4_TLF",
-    "launcher_name": "TLF_Launcher.exe"
+    "launcher_name": "TLF_Launcher.exe",
+    "auto_update_on_startup": False
 }
