@@ -1,6 +1,6 @@
 {
-    "installed": False,
-    "auto_update_on_startup": False,
+    "installed": false,
+    "auto_update_on_startup": false,
     "path": "",
     "exe_name": "TestProject.exe",
     "download_url": "https://disk.yandex.ru/d/4NJNMjY8Kw3wFA",
